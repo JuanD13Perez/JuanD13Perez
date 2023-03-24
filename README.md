@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Juan Diego Pérez</h1>
-<h3 align="center">Mathematician passionate about problem solving and modelling.</h3>
+<h3 align="center">Mathematician student passionate about problem solving and modelling.</h3>
 <img align="right" alt="Coding" width= "400" src = "https://www.sarvika.com/wp-content/uploads/2021/03/Backend-Developer-Python-GIF-Dribble.gif">
 
 - 💬 Ask me about **Math, Python, SQL**
